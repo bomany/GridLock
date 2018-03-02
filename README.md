@@ -1,5 +1,7 @@
 # GridLock
-An implementation of a grid base system with pathfinding for Unity3D.
+An implementation of a grid based system with pathfinding for Unity3D.
+
+GridLock can be used to manage movement within a grid.
 
 * Grid
   * GridPosition
